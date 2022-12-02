@@ -3,6 +3,7 @@
 ### Necessário
  - Node JS (https://nodejs.org/en/)
  - Cypress (https://www.cypress.io/)
+ - Hyper (https://hyper.is/)
 
 ### Passo 1
  - Rodar o comando no diretório vazio para instalar o cypress no projeto.
