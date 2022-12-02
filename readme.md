@@ -1,4 +1,4 @@
-# Teste Descartes
+# Desafio Descartes em Cypress
 
 ### Necessário
  - Node JS (https://nodejs.org/en/)
